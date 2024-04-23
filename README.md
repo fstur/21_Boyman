@@ -14,10 +14,12 @@ conda create -n zmb_21 -c conda-forge python=3.11 -y
 conda activate zmb_21
 conda install -y -c conda-forge jupyterlab
 conda install -y -c conda-forge nb_conda_kernels
-conda install -y -c conda-forge numpy pandas matplotlib tifffile
 pip install "napari[all]"
 pip install torch --index-url https://download.pytorch.org/whl/cu118
-pip install cellpose
+pip install cellpose<3
+pip install matplotlib
+pip install readlif>=0.6.4
+pip install aicsimageio
 ```
 
 ## Start Jupyter:
