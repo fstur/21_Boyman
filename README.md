@@ -1,5 +1,7 @@
 # 21_Boyman
-FLIM: STAT-5 dimerization project with Roman and Thi
+FLIM: STAT-5 dimerization project
+
+Note: This is a work in progress
 
 ## Installation:
 Note: These steps work on the ZMB-VMs. Please adapt accordingly if used somewhere else.
