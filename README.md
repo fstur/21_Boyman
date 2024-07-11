@@ -20,6 +20,10 @@ pip install cellpose<3
 pip install matplotlib
 pip install readlif>=0.6.4
 pip install aicsimageio
+pip install ptufile[all]
+pip install openpyxl
+pip install flimlib
+pip install bokeh>=2.4.2
 ```
 
 ## Start Jupyter:
