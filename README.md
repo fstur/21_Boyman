@@ -25,7 +25,7 @@ pip install aicsimageio
 pip install ptufile[all]
 pip install openpyxl
 pip install flimlib
-pip install bokeh>=2.4.2
+pip install "bokeh>=2.4.2,<3"
 ```
 
 ## Start Jupyter:
