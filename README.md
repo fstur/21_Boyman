@@ -38,4 +38,3 @@ pip install "bokeh>=2.4.2,<3"
   e.g.: `cd Z:\home\u.sername\notebooks`
 * Start jupyter-lab:  
   `jupyter-lab --browser='C:/Program Files/Mozilla Firefox/firefox.exe %s'`
-
