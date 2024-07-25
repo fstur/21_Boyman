@@ -25,6 +25,7 @@ pip install aicsimageio
 pip install ptufile[all]
 pip install openpyxl
 pip install flimlib
+pip install dask
 pip install "bokeh>=2.4.2,<3"
 ```
 
@@ -37,4 +38,3 @@ pip install "bokeh>=2.4.2,<3"
   e.g.: `cd Z:\home\u.sername\notebooks`
 * Start jupyter-lab:  
   `jupyter-lab --browser='C:/Program Files/Mozilla Firefox/firefox.exe %s'`
-
