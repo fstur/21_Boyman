@@ -17,7 +17,6 @@ conda activate zmb_21
 conda install -y pytorch pytorch-cuda=11.8 -c pytorch -c nvidia
 conda install -y -c conda-forge jupyterlab
 conda install -y -c conda-forge nb_conda_kernels
-conda install -y -c conda-forge numpy<2
 pip install "napari[all]"
 pip install cellpose<3
 pip install matplotlib
