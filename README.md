@@ -25,7 +25,6 @@ pip install aicsimageio
 pip install ptufile[all]
 pip install openpyxl
 pip install dask
-pip install "bokeh>=2.4.2,<3"
 pip install numpy<2
 ```
 
